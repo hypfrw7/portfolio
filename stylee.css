@@ -640,7 +640,7 @@ flex-wrap: wrap;
     font-size: 2.4rem;
     color:#333
 }
-/*Break point*/
+/* Break point */
 @media(max-width:1200px)
 {
     html{
